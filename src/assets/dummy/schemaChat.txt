@@ -1,0 +1,42 @@
+Chatting
+    ChatId => (uid1_uid2)
+        allChat
+            ChatDate => (2020-06-20)
+                chat1
+                    sendBy
+                    chatDate
+                    chatTime
+                    chatContent
+
+                chat2
+                    sendBy
+                    chatDate
+                    chatTime
+                    chatContent
+
+    ChatId => (uid1_uid2)
+        ChatAll
+            ChatDate => (2020-06-20)
+                chat1
+                    sendBy
+                    chatDate
+                    chatTime
+                    chatContent
+
+Message
+    uid
+        ChatId
+            lastContentChat
+            lastChatDate
+            uidPartner
+
+        ChatId
+            lastContentChat
+            lastChatDate
+            uidPartner
+
+    uid
+        ChatId
+            lastContentChat
+            lastChatDate
+            uidPartner

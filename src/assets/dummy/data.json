@@ -1,0 +1,107 @@
+{
+  "doctorCategory": ["Dokter Umum", "Psikiater", "Dokter Obat", "Dokter Anak"],
+  "ratedDoctor": [
+    {
+      "name": "Alexa Rachel",
+      "desc": "Pediatrician",
+      "pict": "../../assets/dummy/images/pict_doctor1.png"
+    },
+    {
+      "name": "Sunny Frank",
+      "desc": "Dentist",
+      "pict": "../../assets/dummy/images/pict_doctor1.png"
+    },
+    {
+      "name": "Poe Minn",
+      "desc": "Podiatrist",
+      "pict": "../../assets/dummy/images/pict_doctor1.png"
+    }
+  ],
+  "newsItem": [
+    {
+      "title": "Is it safe to stay at home during coronavirus?",
+      "time": "Today",
+      "pict": "../../../assets/dummy/images/news1.png"
+    },
+    {
+      "title": "Consume yellow citrus helps you healthier",
+      "time": "Today",
+      "pict": "../../../assets/dummy/images/news2.png"
+    },
+    {
+      "title": "Learn how to make a proper orange juice at home",
+      "time": "Today",
+      "pict": "../../../assets/dummy/images/news3.png"
+    }
+  ],
+  "messages": [
+    {
+      "name": "Alexander Jannie",
+      "desc": "Baik ibu, terima kasih banyak atas wakt...",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "Nairobi Putri Hayza",
+      "desc": "Oh tentu saja tidak karena jeruk it...",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "John McParker Steve",
+      "desc": "Oke menurut pak dokter bagaimana unt...",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    }
+  ],
+  "hospitalItem": [
+    {
+      "name": "Rumah Sakit Citra Bunga Merdeka",
+      "address": "Jln. Surya Sejahtera 20",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "Rumah Sakit Anak Happy Family & Kids",
+      "address": "Jln. Surya Sejahtera 20",
+      "pict": "require('../../../assets/dummy/images/hospital2.png')"
+    },
+    {
+      "name": "Rumah Sakit Jiwa Tingkatan Paling Atas",
+      "address": "Jln. Surya Sejahtera 20",
+      "pict": "../../../assets/dummy/images/hospital3.png"
+    }
+  ],
+  "profile": [
+    {
+      "name": "Edit Profile",
+      "desc": "Last updated yesterday",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "Language",
+      "desc": "Available 12 languages",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "Give Us Rate",
+      "desc": "On Google Play Store",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    },
+    {
+      "name": "Help Center",
+      "desc": "Read our guidelines",
+      "pict": "../../../assets/dummy/images/hospital1.png"
+    }
+  ],
+  "profileDoctor": [
+    {
+      "name": "Alumnus",
+      "desc": "Universitas Indonesia, 2020"
+    },
+    {
+      "name": "Tempat Praktik",
+      "desc": "Rumah Sakit Umum, Bandung"
+    },
+    {
+      "name": "No. STR",
+      "desc": "0000116622081996"
+    }
+  ]
+}
